@@ -1,0 +1,4 @@
+AI\Assistant\AssistantApplication.class
+AI\Assistant\config\AiConfig.class
+AI\Assistant\ChatController.class
+AI\Assistant\ChatService.class
